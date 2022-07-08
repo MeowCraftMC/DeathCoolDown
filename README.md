@@ -1,2 +1,2 @@
 # DeathCoolDown
-Cool down after player death. (Easier hard core mode.)
+Cool down before player respawn. (Easier hard core mode.)

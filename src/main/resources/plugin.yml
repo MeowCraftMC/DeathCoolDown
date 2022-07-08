@@ -1,0 +1,16 @@
+name: DeathCoolDown
+version: '${version}'
+main: cx.rain.mc.deathcooldown.DeathCoolDown
+api-version: 1.19
+prefix: DeathCoolDown
+authors: [ qyl27 ]
+description: Cool down before player respawn.
+website: https://github.com/MeowCraftMC/DeathCoolDown
+commands:
+  respawn:
+    description: Respawn from hardcore mode.
+    usage: /respawn
+    permission: deathcooldown.respawn
+permissions:
+  deathcooldown.respawn:
+    default: true
